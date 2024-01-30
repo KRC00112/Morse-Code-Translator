@@ -116,7 +116,7 @@ public class Main {
 					case '8' :{System.out.print("---.. ");break;}
 					case '9' :{System.out.print("----. ");break;}
 					case '0' :{System.out.print("----- ");break;}
-					case ' ' :{System.out.print("___ ");break;}
+					case ' ' :{System.out.print("/ ");break;}
 				
 			}
 			
@@ -176,7 +176,7 @@ public class Main {
 					case "----." :{System.out.print("9");break;}
 					case "-----" :{System.out.print("0");break;}
 					case ""     :{System.out.print(" ");break;}
-					case "___"     :{System.out.print(" ");break;}
+					case "/"     :{System.out.print(" ");break;}
 
 				}
 
